@@ -2,7 +2,7 @@
 
 This is a simple repository to get started with GitHub and make your first contributions.
 
-## What's inside?
+## What's inside??
 - A **Python script** (`hello_world.py`) to print "Hello, GitHub!".
 - This `README.md` file to describe the project.
 
