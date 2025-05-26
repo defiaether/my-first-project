@@ -12,4 +12,4 @@ This is a simple repository to get started with GitHub and make your first contr
 
 Enjoy exploring GitHub! 😃🤘
 add something cool here!
-..
+.
