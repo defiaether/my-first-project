@@ -11,4 +11,4 @@ This is a simple repository to get started with GitHub and make your first contr
 2. Make changes, add more files, and commit regularly to build your contribution graph.
 
 Enjoy exploring GitHub! 😃🤘
-add something cool here>
+add something cool here
