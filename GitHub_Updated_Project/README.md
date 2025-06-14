@@ -12,3 +12,4 @@ Welcome to my first GitHub project! This repository will contain basic scripts a
     ```
 2. Run the `hello_world.py` script to see the message.
 12
+s
