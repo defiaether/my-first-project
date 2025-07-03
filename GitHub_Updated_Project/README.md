@@ -12,3 +12,4 @@ Welcome to my first GitHub project! This repository will contain basic scripts a
     ```
 2. Run the `helllo_world.py` script to see the message
 3. be happy
+4. stay freee
