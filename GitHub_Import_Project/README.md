@@ -10,4 +10,4 @@ This is a simple repository to get started with GitHub and make your first contr
 1. Clone or import this repository into your GitHub account.
 2. Make changes, add more files, and commit regularly to build your contribution graph.
 
-Enjoy exploring GitHub! 😃🤘
+Enjoy exploring GitHub! 😃
