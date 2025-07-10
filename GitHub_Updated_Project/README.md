@@ -11,4 +11,4 @@ Welcome to my first GitHub project! This repository will contain basic scripts a
     git clone https://github.com/your-username/my-first-project.git
     ```
 2. Run the `helllo_world.py` script to see the message
-3. be happ
+3. be
